@@ -1,0 +1,17 @@
+receptor = receptor.pdbqt
+
+center_x = 10.100 
+center_y = 49.529
+center_z = 83.237
+
+size_x = 100
+size_y = 100
+size_z = 100
+
+num_modes = 10
+energy_range = 4
+
+exhaustiveness = 100
+
+
+
